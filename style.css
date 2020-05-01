@@ -1,0 +1,62 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+a {
+    float: right;
+
+    display: block;
+    width: 120px;
+    background: Salmon;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    text-transform: uppercase;
+    padding: 5px;
+}
+a:hover, a:active {
+    background-color: salmon;
+    color: navy;
+}
+header {
+    background-color: salmon;
+    text-align: Center;
+    color: white;
+    font-size: 75px;
+    font-weight: bold;
+}
+h1 {
+    color: salmon;
+    position: relative;
+    float: left:
+}
+.
+.banner {
+    width: 100%;
+    align-items: center;
+}
+.bg-row {
+    background-color:salmon;
+    width: 100%;
+}   
+#content{
+    display: grid;
+    grid-template-columns: 33% 33% 22%
+}
+
+footer {
+    position: fixed;
+    width: 100%;
+    text-align: center;
+    padding: 0px;
+    margin: 0px;
+    background-color: salmon;
+    color: white;
+}
+p {
+    color: white;
+    background: salmon;
+    padding: 25px;
+    border: 10px;
+}
