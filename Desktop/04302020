@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<head> </head>
+<body>
+<script>
+<h1> Open the console to see the magic!</h1>
+<var coolPeople=
+"bruce lee",
+"arnold schwarzenegger",
+"will smith",
+"esther",
+"marie curie",
+"joan of arc"
+];
+
+</script>
+</body>
+</html>
+
+console.log("First statement");
+console.log(drinks[0]);
+console.log(drinks[1]);
+console.log(drinks[2]);
+console.log(drinks[3]);
+
+console.log("Second statement");
+console.log(zooAnimals[0])
+console.log(zooAnimal[1])
+console.log(zooAnimals[2])
+console.log(zooAnimals[3])
+
+var zooAnimals = ["Lions", "Tigers", "Bears", "Oh My")
+
+for (var i = 0; i < zooAnimals.length; i++) {
+    console.log("Ilove " = zooAnimals[i])
+}
+</script>
+</body>
+</html>
